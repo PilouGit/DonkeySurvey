@@ -9,5 +9,7 @@ public class Question {
 
 	protected String uniqueCode;
 	protected String name;
+	protected String description;
+	protected boolean mandatory;
 	protected TypedQuestion typedQuestion;
 }

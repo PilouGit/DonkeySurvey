@@ -1,6 +1,6 @@
-package com.example.application.views.helloworld;
+package com.neuresys.donkeysurvey.ui.views.helloworld;
 
-import com.example.application.views.MainLayout;
+import com.neuresys.donkeysurvey.ui.views.MainLayout;
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.notification.Notification;

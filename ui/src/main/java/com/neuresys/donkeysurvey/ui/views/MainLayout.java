@@ -1,8 +1,8 @@
-package com.example.application.views;
+package com.neuresys.donkeysurvey.ui.views;
 
 
-import com.example.application.views.about.AboutView;
-import com.example.application.views.helloworld.HelloWorldView;
+import com.neuresys.donkeysurvey.ui.views.about.AboutView;
+import com.neuresys.donkeysurvey.ui.views.helloworld.HelloWorldView;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;
